@@ -1,4 +1,4 @@
-print ("hello, {{cookiecutter.name}}")
+print ("Streamlit Code")
 import streamlit as st
 
 # Add a title
